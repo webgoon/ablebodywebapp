@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ablebody_ablebodyusr",
+    "password": "cGlm3h526P1#3ZhOKL",
+    "database": "ablebody_ablebodydb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "ablebody_ablebodyusr",
+    "password": "cGlm3h526P1#3ZhOKL",
+    "database": "ablebody_ablebodydb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "ablebody_ablebodyusr",
+    "password": "cGlm3h526P1#3ZhOKL",
+    "database": "ablebody_ablebodydb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
